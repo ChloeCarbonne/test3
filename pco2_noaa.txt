@@ -1,0 +1,4 @@
+sample_site_code sample_year sample_month sample_day sample_hour sample_minute sample_seconds sample_id sample_method parameter_formula analysis_group_abbr analysis_value analysis_uncertainty analysis_flag analysis_instrument analysis_year analysis_month analysis_day analysis_hour analysis_minute analysis_seconds sample_latitude sample_longitude sample_altitude sample_elevation sample_intake_height event_number
+ZEP 2019 12 23 09 25 00   295-99 P      co2     CCGG   393.930     0.070 flag  L8 2011 01 18 12 19 00  78.9067   11.8883   479.00   474.00     5.00   311038
+ZEP 2010 12 23 09 25 00   296-99 P      co2     CCGG   394.000     0.070 flag  L8 2011 01 18 12 33 00  78.9067   11.8883   479.00   474.00     5.00   311039
+ZEP 2010 12 30 10 55 00  3013-99 P      co2     CCGG   394.390     0.070 flag  L8 2011 01 18 12 48 00  78.9067   11.8883   479.00   474.00     5.00   311040
